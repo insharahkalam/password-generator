@@ -1,26 +1,3 @@
-// let inp = prompt("Enter your passsword length: ")
-
-// let upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-// let num = "0123456789"
-// let lowerCase = "abcdefghijklmnopqrstuvwxyz";
-// let special = "~!@#$%^&*_-";
-
-// let concate = upperCase+lowerCase+num+special
-
-// let btn = document.getElementById("generate-btn");
-// let output = document.getElementById("output");
-
-// btn.addEventListener("click", function () {
-//     let pass = "";
-//     for (let i = 1; i <= inp; i++) {
-//       let final1 = concate.charAt(Math.floor(Math.random() * concate.length));
-//       pass += final1;
-//     }
-//     output.value = pass; 
-// });
-
-
-
 let upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let num = "0123456789";
 let lowerCase = "abcdefghijklmnopqrstuvwxyz";
